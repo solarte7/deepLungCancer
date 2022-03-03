@@ -6,5 +6,5 @@ We provide deep learning-based trained models to perform clinical NER in the lun
 
 These models can be downloaded from this link: 
 
-https://
+https://drive.google.com/drive/folders/1yBUzLzF9YjlOITmAlzB6JmH4nIczAfr-?usp=sharing
 
