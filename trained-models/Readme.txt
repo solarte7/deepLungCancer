@@ -8,3 +8,5 @@ These models can be downloaded from this link:
 
 https://drive.google.com/drive/folders/1yBUzLzF9YjlOITmAlzB6JmH4nIczAfr-?usp=sharing
 
+You can download BiLSTM and BERT models
+
