@@ -9,7 +9,7 @@ In this repository you can acces the following information:
 
 2. Trainend models on the lung cancer corpus. These models can be downladed and used to extract named entities.
 
-3. The lung cancer corpus  is governed by the General Data Protection Regulation (GDPR) (EU) 2016/679 of the European Parliament. This corpus is available ``upon request''. This corpus can be accessible after an evaluation by the hospital's ethics committee. To request access to the anonymized data, please contact Dr. Maria Torrente at the following email: maria.torrente@salud.madrid.org 
+3. The lung cancer corpus  is governed by the General Data Protection Regulation (GDPR) (EU) 2016/679 of the European Parliament. This corpus is available "upon request". This corpus can be accessible after an evaluation by the hospital's ethics committee. To request access to the anonymized data, please contact Dr. Maria Torrente at the following email: maria.torrente@salud.madrid.org 
 
 
 Contact
