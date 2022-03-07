@@ -1,5 +1,5 @@
 # Clinical NER  in the lung cancer domain
-This repository contains a deep learning-based implementation to extract lung cancer named-entities from clinical notes Written in Spanish.
+This repository contains a deep learning-based implementation to extract lung cancer named-entities from clinical notes written in Spanish.
 
 Clinical named entity recognition (CNER) is performed using two deep learning models: BiLSTM and BERT. 
 
