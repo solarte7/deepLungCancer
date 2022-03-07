@@ -1,17 +1,20 @@
 # Clinical NER  in the lung cancer domain
-This repositoy contains a deep-learning approach to extract lung cancer concepts from clinical notes Written in Spanish.
+This repository contains a deep learning-based implementation to extract lung cancer named-entities from clinical notes Written in Spanish.
 
-The ropository code to perform clinical named entity recognition (CNER) using two deep learning models: BiLSTM and BERT.
+Clinical named entity recognition (CNER) is performed using two deep learning models: BiLSTM and BERT. 
 
-In this repository you can acces the following information:
+To train these models, we annotated a lung cancer corpus that contains 19,000 annotated sentences using nineteen entity types. 
 
-1. Python code to train deep learning models
+<br> 
+<strong>BiLSTM-CRF:</strong> This model is combined con clinical emebeddins pre-trained for Spanish. The directory BiLSTM contains the code for trining this model.
 
-2. Trainend models on the lung cancer corpus. These models can be downloaded and used to extract named entities. These models work at sentence level. It is, the input is a set of sentences. Thus, a clinical note must be previpusly tokenized.
+<br>
 
-3. The lung cancer corpus  is governed by the General Data Protection Regulation (GDPR) (EU) 2016/679 of the European Parliament. This corpus is available "upon request". This corpus can be accessible after an evaluation by the hospital's ethics committee. To request access to the anonymized data, please contact Dr. Maria Torrente at the following email: maria.torrente@salud.madrid.org 
+<strong>BERT</strong>: We used multilingual BERT fine-tuned with a classitication layer on top. The directory BERT contains the code for trining this model.
 
+3. <strong>The lung cancer corpus </strong> is governed by the General Data Protection Regulation (GDPR) (EU) 2016/679 of the European Parliament. This corpus is available "upon request". This corpus can be accessible after an evaluation by the hospital's ethics committee. To request access to the anonymized data, please contact Dr. Maria Torrente at the following email: maria.torrente@salud.madrid.org 
 
+4. <strong> Tained-models: </strong>
 Contact:<br>
 
 If you have any question or suggestion, please contact us at the following email address: oswaldo.solartep@alumnos.upm.es
