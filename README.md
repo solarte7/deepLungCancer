@@ -12,7 +12,7 @@ To train these models, we annotated a lung cancer corpus that contains 19,000 an
 
 <strong>3. The lung cancer corpus </strong> is governed by the General Data Protection Regulation (GDPR) (EU) 2016/679 of the European Parliament. This corpus is available "upon request". This corpus can be accessible after an evaluation by the hospital's ethics committee. To request access to the anonymized data, please contact Dr. Maria Torrente at the following email: maria.torrente@salud.madrid.org 
 
-<strong>4. Tained-models: </strong> We provide trained models on the lung cancer corpus. These models can be used to evaluate or exploit them by performing real-life study cases with clinical notes written in Spanish. Trained models can also be used to integrate them into medical text mining applications. The directory "trained_models" contains instructions for using these models.
+<strong>4. Tained-models: </strong> We provide trained models on the lung cancer corpus. These models can be used to evaluate or exploit them by performing real-life study cases with clinical notes written in Spanish. Trained models can also be used to integrate them into medical text mining applications. The directory "trained-models" contains instructions for using these models.
 
 <strong>Contact:</strong><br>
 
