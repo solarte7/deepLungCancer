@@ -6,15 +6,15 @@ Clinical named entity recognition (CNER) is performed using two deep learning mo
 To train these models, we annotated a lung cancer corpus that contains 19,000 annotated sentences using nineteen entity types. 
 
 <br> 
-<strong>BiLSTM-CRF:</strong> This model is combined con clinical emebeddins pre-trained for Spanish. The directory BiLSTM contains the code for trining this model.
+<strong>1. BiLSTM-CRF:</strong> This model is combined con clinical emebeddins pre-trained for Spanish. The directory BiLSTM contains the code for trining this model.
 
 <br>
 
-<strong>BERT</strong>: We used multilingual BERT fine-tuned with a classitication layer on top. The directory BERT contains the code for trining this model.
+<strong>2. BERT</strong>: We used multilingual BERT fine-tuned with a classitication layer on top. The directory BERT contains the code for trining this model.
 
-3. <strong>The lung cancer corpus </strong> is governed by the General Data Protection Regulation (GDPR) (EU) 2016/679 of the European Parliament. This corpus is available "upon request". This corpus can be accessible after an evaluation by the hospital's ethics committee. To request access to the anonymized data, please contact Dr. Maria Torrente at the following email: maria.torrente@salud.madrid.org 
+<strong>3. The lung cancer corpus </strong> is governed by the General Data Protection Regulation (GDPR) (EU) 2016/679 of the European Parliament. This corpus is available "upon request". This corpus can be accessible after an evaluation by the hospital's ethics committee. To request access to the anonymized data, please contact Dr. Maria Torrente at the following email: maria.torrente@salud.madrid.org 
 
-4. <strong> Tained-models: </strong>
+<strong>4. Tained-models: </strong>
 Contact:<br>
 
 If you have any question or suggestion, please contact us at the following email address: oswaldo.solartep@alumnos.upm.es
