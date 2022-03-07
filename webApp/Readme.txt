@@ -1,6 +1,7 @@
 ==================================================================================
 WebApp
 ==================================================================================
+Please download the file: WebApp-NER.zip
 
 This is a prototype of web application to vizualize clinical NER using the lung cancer corpus.
 
