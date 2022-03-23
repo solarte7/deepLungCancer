@@ -12,7 +12,7 @@ Trained models with the lung cancer corpus can be downloaded from this link:
 
 https://drive.google.com/drive/folders/1yBUzLzF9YjlOITmAlzB6JmH4nIczAfr-?usp=sharing
 
-You can download BiLSTM and BERT models at that link.
+You can download BiLSTM and BERT models from the above link.
 
 
 Requeriments: Tensorflow 2.0 and Keras.
