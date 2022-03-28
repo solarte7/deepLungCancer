@@ -10,13 +10,14 @@ This application can be downloaded from this link:
 https://drive.google.com/drive/folders/1yBUzLzF9YjlOITmAlzB6JmH4nIczAfr-?usp=sharing
 
 
-********************************
+=================================================================
 How to run the WebApp:
-*******************************
+=================================================================
 
 - enter to the app folder.
 - run the script: uvicorn app:app --reload
 - open localhost:8000
+
 
 ===========================================
 Requeriments:
