@@ -18,9 +18,11 @@ How to run the WebApp:
 - run the script: uvicorn app:app --reload
 - open localhost:8000
 
+===========================================
 Requeriments:
-library need to be installed:
+===========================================
+1) Library need to be installed:  FastApi
 
-- FastApi
+2) Tensorflow and Keras also must be installed previously
 
 
